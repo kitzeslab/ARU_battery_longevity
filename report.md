@@ -4,11 +4,12 @@ Nickolus Stahlman
 
 [<u>nls92@pitt.edu</u>](mailto:nls92@pitt.edu)
 
-**Summary** – I evaluated the longevity of batteries used in Song Meter
-Micro (SMM) and AudioMoth Autonomous Recording Units (ARUs) at varying
+## **Summary**
+The longevity of batteries used in [Song Meter
+Micro (SMM)](https://www.wildlifeacoustics.com/products/song-meter-micro?utm_term=song%20meter%20micro&utm_campaign=Products:+Bird/Frog+Recorders&utm_source=adwords&utm_medium=ppc&hsa_acc=6925807588&hsa_cam=12918503750&hsa_grp=121883524219&hsa_ad=518495938292&hsa_src=g&hsa_tgt=kwd-1247239655478&hsa_kw=song%20meter%20micro&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RmAb11m9IysIbTFi5NTzrYldq44dilGNIvpfhyiTj2Rn0vT5Kqc6qsaAuVyEALw_wcB) and [AudioMoth](https://www.openacousticdevices.info/) Autonomous Recording Units (ARUs) was evaluated at varying
 settings of sample rate, gain, temperature, and battery type. The
 control settings used for SMMs included a 32kHz sample rate with 18dB
-gain using Duracell Procell PC1500 AA batteries (Procell) to record at
+gain using [Duracell Procell PC1500 AA batteries (Procell)](https://www.procell.com/en-us/all-batteries/) to record at
 room temperature which recorded an average of 139 hours of audio. The
 lowest sample rate setting of 8kHz would increase the hours of audio by
 61% and the highest sample rate setting of 96kHz would decrease the
@@ -17,12 +18,12 @@ fill up before the batteries died; however, the batteries would die once
 the device was rebooted with a new SD card. The change of gain had a
 negligible effect on hours of audio recorded. Performance of the Procell
 batteries decreased by 10% at cold temperatures and by 43% at freezing
-temperatures. Energizer Ultimate Lithium AA (Lithium) batteries
+temperatures. [Energizer Ultimate Lithium AA (Lithium)](https://www.energizer.com/batteries/energizer-ultimate-lithium-batteries) batteries
 increased hours of audio recorded by 24% and performed at relatively
 consistent levels across room, cold, and freezing temperatures. Lithium
 batteries double the hours of audio recorded at freezing temperatures
-compared to Procell batteries at the same temperature. Panasonic
-Alkaline Power Plus AA (Panasonic) batteries were only tested at room
+compared to Procell batteries at the same temperature. [Panasonic
+Alkaline Power Plus AA (Panasonic)](https://www.panasonicbatteryproducts.com/alkaline_plus_power_batteries/) batteries were only tested at room
 temperature and resulted in a decrease of 10% in hours of audio.
 
 The control settings used for the AudioMoths included a 32kHz sample
@@ -118,7 +119,7 @@ audio.
 ## 1.0 Introduction
 
 Autonomous Recording Units (ARUs) are becoming an increasingly vital
-component to ecological research. AudioMoths are affordable ARUs
+component to ecological research. [AudioMoth](https://www.openacousticdevices.info/) are affordable ARUs
 developed by Open Acoustic Devices to offer a lightweight design and
 easy configurability. AudioMoths are designed for low power consumption,
 and the configuration app will display the estimated daily power
@@ -127,7 +128,8 @@ there is no change to estimated power consumption from changes to gain,
 and there is no consideration given to the temperature the AudioMoth
 will be recording at.
 
-The Song Meter Micro (SMM) is an ARU developed by Wildlife Acoustics
+The [Song Meter
+Micro (SMM)](https://www.wildlifeacoustics.com/products/song-meter-micro?utm_term=song%20meter%20micro&utm_campaign=Products:+Bird/Frog+Recorders&utm_source=adwords&utm_medium=ppc&hsa_acc=6925807588&hsa_cam=12918503750&hsa_grp=121883524219&hsa_ad=518495938292&hsa_src=g&hsa_tgt=kwd-1247239655478&hsa_kw=song%20meter%20micro&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RmAb11m9IysIbTFi5NTzrYldq44dilGNIvpfhyiTj2Rn0vT5Kqc6qsaAuVyEALw_wcB) is an ARU developed by Wildlife Acoustics
 that offers a rugged case and Bluetooth capabilities. Wildlife Acoustics
 reports that as of firmware 3.4 a SMM will run for 180 hours at a sample
 rate of 24kHz using AA alkaline batteries. The mobile configuration app
@@ -161,105 +163,105 @@ category was determined using an infrared thermometer. Readings were
 taken during the morning, midday, and evening for each condition and
 across three separate days to establish the average temperature.
 
-Duracell Procell PC1500 alkaline AA (Procell) batteries were used as the
+Duracell Procell PC1500 alkaline AA (Procell)[Duracell Procell PC1500 AA batteries (Procell)](https://www.procell.com/en-us/all-batteries/) batteries were used as the
 control battery type throughout the trials. Procells were compared
-against Panasonic Alkaline Plus Power AA (Panasonic) and Energizer
-Ultimate Lithium AA (Lithium) batteries at room temperature.
+against [Panasonic
+Alkaline Power Plus AA (Panasonic)](https://www.panasonicbatteryproducts.com/alkaline_plus_power_batteries/) and [Energizer Ultimate Lithium AA (Lithium)](https://www.energizer.com/batteries/energizer-ultimate-lithium-batteries) batteries at room temperature.
 Additionally, the longevity of Procell versus Lithium batteries at
 fridge and freezer temperatures was compared.
 
-#### 2.1 Song Meter Micro Trials
+### 2.1 Song Meter Micro Trials
 
-> **Control Configuration**<br>
-> Sample Rate: 32kHz<br>Gain: 18dB<br>Temperature: room<br>Battery Type: Duracell Procell PC1500
->
-> **Sample Rate Configuration:** A total of 24 SMMs were configured to
-> record with an 18dB gain at room temperature with Procell batteries.
-> Three SMMs were set to the same sample rate across each setting
-> outside our control configuration (8, 12, 16, 22.05, 24, 44.1, 48, and
-> 96kHz).
->
-> **Gain Configuration**: A total of 9 SMMs were configured to record at
-> a 32kHz sample rate at room temperature with Procell batteries. Three
-> SMMs were set to record at the same gain across each setting outside
-> our control configuration (6, 12, 24dB).
->
-> **Temperature Trials:** A total of 12 SMMs were set to record at a
-> sample rate of 32kHz with a 18dB gain. Six SMMs were powered with
-> Procell batteries, and half were placed in the freezer and the other
-> half in the fridge. The other 6 SMMs were powered with Lithium
-> batteries, and half were placed in the freezer and the other half in
-> the fridge.
->
-> **Battery Type Trials:** A total of 6 SMMs were set to record at a
-> sample rate of 32kHz with a 18dB gain at room temperature. Three were
-> powered with Lithium batteries and three were powered with Panasonic
-> batteries.
+ **Control Configuration**<br>
+Sample Rate: 32kHz<br>Gain: 18dB<br>Temperature: room<br>Battery Type: Duracell Procell PC1500
 
-#### 2.2 AudioMoth Trials
+ **Sample Rate Configuration:** A total of 24 SMMs were configured to
+ record with an 18dB gain at room temperature with Procell batteries.
+ Three SMMs were set to the same sample rate across each setting
+outside our control configuration (8, 12, 16, 22.05, 24, 44.1, 48, and
+96kHz).
 
-> **Control Configuration**<br>
-> Sample Rate: 32kHz<br>Gain: medium<br>Temperature: room<br>Battery Type: Duracell Procell PC1500
->
-> **Sample Rate Configuration:** A total of 21 AudioMoths were
-> configured to record with an 18dB gain at room temperature with
-> Procell batteries. Three AudioMoths were set to the same sample rate
-> across each setting outside our control configuration (8, 16, 48, 96,
-> 192, 250, and 384kHz).
->
-> **Gain Configuration**: A total of 12 AudioMoths were configured to
-> record at a 32kHz sample rate at room temperature with Procell
-> batteries. Three AudioMoths were set to record at the same gain across
-> each setting outside our control configuration (low, low-medium,
-> medium-high, and high).
->
-> **Temperature Trials:** A total of 12 AudioMoths were set to record at
-> a sample rate of 32kHz with a 18dB gain. Six AudioMoths were powered
-> with Procell batteries, and half were placed in the freezer and the
-> other half in the fridge. The other 6 AudioMoths were powered with
-> lithium metal batteries, and half were placed in the freezer and the
-> other half in the fridge.
->
-> **Battery Type Trials:** A total of 6 AudioMoths were set to record at
-> a sample rate of 32kHz with a 18dB gain at room temperature. Three
-> were powered with Lithium batteries and three were powered with
-> Panasonic batteries.
+**Gain Configuration**: A total of 9 SMMs were configured to record at
+a 32kHz sample rate at room temperature with Procell batteries. Three
+ SMMs were set to record at the same gain across each setting outside
+ our control configuration (6, 12, 24dB).
 
-#### 2.3 High Sample Rates
+ **Temperature Trials:** A total of 12 SMMs were set to record at a
+ sample rate of 32kHz with a 18dB gain. Six SMMs were powered with
+ Procell batteries, and half were placed in the freezer and the other
+ half in the fridge. The other 6 SMMs were powered with Lithium
+ batteries, and half were placed in the freezer and the other half in
+ the fridge.
 
-> The first set of trials revealed that AudioMoths set to record at a
-> sample rate of 96kHz or higher and SMMs set to 96kHz will fill up a
-> 64GB SD card before the batteries die. An additional set of trials
-> were run at these higher sample rates. All ARUs were set to the same
-> settings used during the initial sample rate trials. The ARUs were
-> monitored throughout the day, and a new SD card was placed in the
-> device once the first SD card was filled up.
+ **Battery Type Trials:** A total of 6 SMMs were set to record at a
+ sample rate of 32kHz with a 18dB gain at room temperature. Three were
+ powered with Lithium batteries and three were powered with Panasonic
+ batteries.
+
+### 2.2 AudioMoth Trials
+
+ **Control Configuration**<br>
+Sample Rate: 32kHz<br>Gain: medium<br>Temperature: room<br>Battery Type: Duracell Procell PC1500
+
+ **Sample Rate Configuration:** A total of 21 AudioMoths were
+ configured to record with an 18dB gain at room temperature with
+ Procell batteries. Three AudioMoths were set to the same sample rate
+ across each setting outside our control configuration (8, 16, 48, 96,
+ 192, 250, and 384kHz).
+
+ **Gain Configuration**: A total of 12 AudioMoths were configured to
+ record at a 32kHz sample rate at room temperature with Procell
+ batteries. Three AudioMoths were set to record at the same gain across
+ each setting outside our control configuration (low, low-medium,
+ medium-high, and high).
+
+**Temperature Trials:** A total of 12 AudioMoths were set to record at
+a sample rate of 32kHz with a 18dB gain. Six AudioMoths were powered
+ with Procell batteries, and half were placed in the freezer and the
+ other half in the fridge. The other 6 AudioMoths were powered with
+lithium metal batteries, and half were placed in the freezer and the
+other half in the fridge.
+
+ **Battery Type Trials:** A total of 6 AudioMoths were set to record at
+ a sample rate of 32kHz with a 18dB gain at room temperature. Three
+ were powered with Lithium batteries and three were powered with
+ Panasonic batteries.
+
+### 2.3 High Sample Rates
+
+The first set of trials revealed that AudioMoths set to record at a
+sample rate of 96kHz or higher and SMMs set to 96kHz will fill up a
+64GB SD card before the batteries die. An additional set of trials
+ were run at these higher sample rates. All ARUs were set to the same
+ settings used during the initial sample rate trials. The ARUs were
+ monitored throughout the day, and a new SD card was placed in the
+ device once the first SD card was filled up.
 
 ## 3.0 Song Meter Micro Results
 
-#### 3.1 Sample Rate Trials
+### 3.1 Sample Rate Trials
 
-> The hours of audio recorded by each SMM at varying sample rates is
-> summarized in Table 1 alongside the average across the three devices.
-> A SMM records an average of 139 hours of audio at our control
-> settings. The lowest sample rate would increase the hours recorded by
-> 61% and the highest sample rate would decrease the hours recorded by
-> 34%. Overall, there is a negative relationship between the sample rate
-> setting and hours of audio. However, there are some discrepancies in
-> linearity between categories.
->
-> Sample rates of 16 and 24kHz allow for similar hours of audio to be
-> recorded instead of a noticeable change between rates. A sample rate
-> of 22.05kHz records 8% fewer hours of audio compared to a sample rate
-> of 24kHz. Similarly, a sample rate of 44.1kHz records 3% fewer hours
-> of audio compared to a sample rate of 48kHz.
->
-> A sample rate of 96kHz would result in the SD card filling up before
-> the batteries died; however, the batteries would die once the device
-> was rebooted with a new SD card. This occurred in the three devices
-> used in the initial trial and the three devices used in the high
-> sample rate trial. Table 1 only shows hours of audio for the SMMs used
-> in the first trial although the second trial had similar results.
+The hours of audio recorded by each SMM at varying sample rates is
+summarized in Table 1 alongside the average across the three devices.
+ A SMM records an average of 139 hours of audio at our control
+settings. The lowest sample rate would increase the hours recorded by
+ 61% and the highest sample rate would decrease the hours recorded by
+ 34%. Overall, there is a negative relationship between the sample rate
+ setting and hours of audio. However, there are some discrepancies in
+ linearity between categories.
+
+ Sample rates of 16 and 24kHz allow for similar hours of audio to be
+ recorded instead of a noticeable change between rates. A sample rate
+ of 22.05kHz records 8% fewer hours of audio compared to a sample rate
+ of 24kHz. Similarly, a sample rate of 44.1kHz records 3% fewer hours
+ of audio compared to a sample rate of 48kHz.
+
+ A sample rate of 96kHz would result in the SD card filling up before
+ the batteries died; however, the batteries would die once the device
+ was rebooted with a new SD card. This occurred in the three devices
+ used in the initial trial and the three devices used in the high
+ sample rate trial. Table 1 only shows hours of audio for the SMMs used
+ in the first trial although the second trial had similar results.
 
 <table>
 <colgroup>
@@ -353,13 +355,13 @@ rate</strong></th></h4>
 </tbody>
 </table>
 
-#### 3.2 Gain Trials
+### 3.2 Gain Trials
 
-> Table 2 shows that the average hours of audio recorded at the
-> different gain settings varies by approximately 5%. The difference
-> increases to a maximum of 9% when results are looked at individually.
-> However, there is no pattern to the changes in hours of audio between
-> the different gain settings.
+ Table 2 shows that the average hours of audio recorded at the
+ different gain settings varies by approximately 5%. The difference
+ increases to a maximum of 9% when results are looked at individually.
+ However, there is no pattern to the changes in hours of audio between
+ the different gain settings.
 
 <table>
 <colgroup>
@@ -416,19 +418,19 @@ rate</strong></th></h4>
 </tbody>
 </table>
 
-#### 3.3 Temperature Trials
+### 3.3 Temperature Trials
 
-> The Procell temperature trials were consistent within temperature
-> groups as shown in Table 3. Decreasing temperature resulted in a
-> decrease in the hours of audio. SMMs placed in the fridge recorded 10%
-> fewer hours, and SMMs placed in the freezer recorded 43% fewer hours.
->
-> Table 4 shows the Lithium temperature trials also had consistency
-> within temperature groups and, to some degree, across temperature
-> groups. Interestingly, the Lithium batteries performed better as the
-> temperature was decreased. When compared to the SMMs at room
-> temperature, SMMs placed in the fridge recorded 5% more hours of audio
-> and the SMMs in the freezer recorded 7% more.
+ The Procell temperature trials were consistent within temperature
+ groups as shown in Table 3. Decreasing temperature resulted in a
+ decrease in the hours of audio. SMMs placed in the fridge recorded 10%
+ fewer hours, and SMMs placed in the freezer recorded 43% fewer hours.
+
+ Table 4 shows the Lithium temperature trials also had consistency
+ within temperature groups and, to some degree, across temperature
+ groups. Interestingly, the Lithium batteries performed better as the
+ temperature was decreased. When compared to the SMMs at room
+ temperature, SMMs placed in the fridge recorded 5% more hours of audio
+ and the SMMs in the freezer recorded 7% more.
 
 
 <table>
@@ -531,12 +533,12 @@ SMM using Energizer Ultimate Lithium batteries at varying temperatures
 </tbody>
 </table>
 
-#### 3.4 Battery Type Trials
+### 3.4 Battery Type Trials
 
-> Table 5 shows the differences between the three battery types used.
-> The Panasonic batteries recorded 10% fewer hours of audio.
-> Alternatively, the Lithium batteries increased the hours of audio by
-> 24%.
+Table 5 shows the differences between the three battery types used.
+ The Panasonic batteries recorded 10% fewer hours of audio.
+ Alternatively, the Lithium batteries increased the hours of audio by
+ 24%.
 
 <table>
 <colgroup>
@@ -590,27 +592,27 @@ SMM using varying battery types and the mean time for each battery
 
 ## 4.0 AudioMoth Results
 
-#### 4.1 Sample Rate Trials
+### 4.1 Sample Rate Trials
 
-> The hours of audio recorded by each SMM at varying sample rates is
-> summarized in Table 6 alongside the average across the three devices.
-> A SMM records an average of 189 hours of audio at our control
-> settings. The Audiomoths recorded a consistent amount of audio within
-> each sample rate category. Overall, there is a negative relationship
-> between the sample rate and the hours of audio the AudioMoth will
-> record. Reducing the sample rate by half will increase the hours of
-> audio recorded by 18%, and the lowest sample rate setting increases
-> the hours of audio by 30%.
->
-> Increasing the sample rate by one step results in a 15% decrease in
-> hours, and the highest sample rate setting reduces the hours of audio
-> recorded by 77%. Sample rates of 96kHz and higher filled up the 64GB
-> SD card before the batteries died. A second trial for these higher
-> sample rates was conducted and the SD card was replaced when the
-> AudioMoth flashed green and red lights to signify a full card. The
-> average data written to the cards before the batteries died is shown
-> in Table 7. The total hours recorded between both cards is shown in
-> Table 6, and these numbers are solely from the second trial.
+ The hours of audio recorded by each SMM at varying sample rates is
+ summarized in Table 6 alongside the average across the three devices.
+ A SMM records an average of 189 hours of audio at our control
+settings. The Audiomoths recorded a consistent amount of audio within
+ each sample rate category. Overall, there is a negative relationship
+ between the sample rate and the hours of audio the AudioMoth will
+ record. Reducing the sample rate by half will increase the hours of
+ audio recorded by 18%, and the lowest sample rate setting increases
+ the hours of audio by 30%.
+
+ Increasing the sample rate by one step results in a 15% decrease in
+hours, and the highest sample rate setting reduces the hours of audio
+ recorded by 77%. Sample rates of 96kHz and higher filled up the 64GB
+ SD card before the batteries died. A second trial for these higher
+ sample rates was conducted and the SD card was replaced when the
+ AudioMoth flashed green and red lights to signify a full card. The
+ average data written to the cards before the batteries died is shown
+ in Table 7. The total hours recorded between both cards is shown in
+ Table 6, and these numbers are solely from the second trial.
 
 <table>
 <colgroup>
@@ -713,8 +715,8 @@ before the batteries depleted, and required a second SD card to be
 <th colspan="5"><strong><h4 id="table-7">TABLE 7: The average data written to the SD cards at each sample rate available on AudioMoths</strong></h4></th>
 </tr>
 <tr class="odd">
-<th><strong>Sample Rate (kHz)</strong></th>
-  <th><strong>Average data on SD card (GB)</strong>
+  <th><p><strong>Sample Rate (kHz)</strong></p></th>
+  <th><p><strong>Average data on SD card (GB)</p></strong>
 </tr>
 <tr class="header">
 <th>8</th>
@@ -754,13 +756,13 @@ before the batteries depleted, and required a second SD card to be
 </tbody>
 </table>
 
-#### 4.2 Gain Trials
+### 4.2 Gain Trials
 
-> The gain setting had a negligible effect on the total hours of audio
-> recorded. The average across settings shown in Table 8 vary by a
-> maximum of 2%. The individual recorders can vary from a couple of
-> minutes to a few hours when compared against each other. However,
-> there is no trend across the gain settings.
+ The gain setting had a negligible effect on the total hours of audio
+ recorded. The average across settings shown in Table 8 vary by a
+ maximum of 2%. The individual recorders can vary from a couple of
+ minutes to a few hours when compared against each other. However,
+ there is no trend across the gain settings.
 
 <table>
 <colgroup>
@@ -826,21 +828,21 @@ AudioMoths at varying gains and the mean time for each
 </tbody>
 </table>
 
-#### 4.3 Temperature Trials
+### 4.3 Temperature Trials
 
-> The Procell temperature trials are summarized in Table 9. There is a
-> 3% decrease in hours recorded between the controls and the devices
-> placed in the fridge. The devices in the freezer recorded 46% fewer
-> hours. The three devices in the fridge recorded a comparatively
-> consistent number of hours. The freezer devices did vary a bit more
-> with one device recording 50% fewer hours compared to the control
-> settings.
->
-> Table 10 shows the Lithium trials were relatively consistent across
-> the temperature ranges. The Lithium batteries allowed for slightly
-> more hours of audio to be recorded at lower temperatures. The devices
-> placed in the fridge recorded 3% more hours of audio and the devices
-> in the freezer recorded 2% more.
+ The Procell temperature trials are summarized in Table 9. There is a
+ 3% decrease in hours recorded between the controls and the devices
+placed in the fridge. The devices in the freezer recorded 46% fewer
+ hours. The three devices in the fridge recorded a comparatively
+ consistent number of hours. The freezer devices did vary a bit more
+ with one device recording 50% fewer hours compared to the control
+ settings.
+
+ Table 10 shows the Lithium trials were relatively consistent across
+ the temperature ranges. The Lithium batteries allowed for slightly
+ more hours of audio to be recorded at lower temperatures. The devices
+ placed in the fridge recorded 3% more hours of audio and the devices
+ in the freezer recorded 2% more.
 
 <table>
 <colgroup>
@@ -942,11 +944,11 @@ AudioMoth using Energizer Ultimate Lithium batteries at varying
 </tbody>
 </table>
 
-#### 4.4 Battery Type Trials
+### 4.4 Battery Type Trials
 
-> Table 11 shows the differences between the three types of batteries
-> used. The Panasonic batteries recorded 7% fewer hours of audio. The
-> Lithium batteries increase the hours recorded by 26%.
+ Table 11 shows the differences between the three types of batteries
+ used. The Panasonic batteries recorded 7% fewer hours of audio. The
+ Lithium batteries increase the hours recorded by 26%.
 
 <table>
 <colgroup>
@@ -1000,14 +1002,14 @@ AudioMoth using varying battery types and the mean time for each battery
 
 ## 5.0 Discussion
 
-> The sample rate trials results were mostly in line with what was
-> expected; as the sample rate is increased the hours of audio recorded
-> will decrease due to more drain on the battery. This pattern is
-> evident across shared sample rates between the SMMs and AudioMoths, as
-> shown in Table 12. Table 13 shows the pattern is less evident across
-> all SMM sample rates. Interestingly, sample rates of 44.1kHz and
-> 22.05kHz went against the pattern, and both resulted in fewer hours
-> recorded than the next highest sample rate.
+The sample rate trials results were mostly in line with what was
+ expected; as the sample rate is increased the hours of audio recorded
+ will decrease due to more drain on the battery. This pattern is
+ evident across shared sample rates between the SMMs and AudioMoths, as
+ shown in Table 12. Table 13 shows the pattern is less evident across
+ all SMM sample rates. Interestingly, sample rates of 44.1kHz and
+ 22.05kHz went against the pattern, and both resulted in fewer hours
+ recorded than the next highest sample rate.
 
 <table>
 <colgroup>
@@ -1020,7 +1022,7 @@ AudioMoth using varying battery types and the mean time for each battery
 <th colspan="3"><strong><h4 id="table-12">TABLE 12: A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rate settings</strong></h4></th>
 </tr>
 <tr class="odd">
-<th><strong>Sample Rate (kHz)</strong></th>
+<th><p>Sample Rate (kHz)</p></th>
 <th><p><u>Average Hours of Audio for SMM</u></p></th>
 <th><p><u>Average Hours of Audio for AudioMoth</u></p></th>
 </tr>
@@ -1065,7 +1067,7 @@ AudioMoth using varying battery types and the mean time for each battery
 <th colspan="3"><strong><h4 id="table-13">TABLE 13: A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting</strong></h4></th>
 </tr>
 <tr class="odd">
-<th><strong>Sample Rate (kHz)</strong></th>
+<th><p>Sample Rate (kHz)</p></th>
 <th><p><u>Average Hours of Audio for SMM</u></p>
 <th><p><u>Average Hours of Audio for AudioMoth</u></p>
 </tr>
@@ -1129,27 +1131,27 @@ AudioMoth using varying battery types and the mean time for each battery
 </tbody>
 </table>
 
-> Consideration on the size of SD cards used should be given when
-> AudioMoths are set to a sample rate of 96kHz or higher. The high
-> sample rates filled the 64GB SD cards before the batteries died on all
-> devices used. Table 7 shows the average amount of data stored before
-> the batteries died during the sample rate trials. Cards with larger
-> storage space should be used when recorded at the high sample rate
-> settings. The Procell batteries used with SMMs set to 96kHz seem to
-> die around the time the 64GB SD card fills up. A larger storage size
-> should be used when recording at this sample rate.
->
-> Temperature was expected to impact the batteries by decreasing
-> performance as the temperature was decreased. The SMM Procell
-> temperature trials did show a steady decline in the hours recorded as
-> the temperature decreased, but this was not the case with the
-> AudioMoth Procell trials. Table 13 compares the Procell and Lithium
-> temperature trials for both SMMs and AudioMoths. The hours recorded by
-> Procell AudioMoths only decreased by 3% when placed in the fridge
-> versus the 10% seen in SMMs. This is surprising considering the
-> AudioMoth has an exposed battery case, versus the sealed plastic case
-> in SMMs. The devices saw similar performance when placed in the
-> freezer with both recording about half the amount of time.
+ Consideration on the size of SD cards used should be given when
+ AudioMoths are set to a sample rate of 96kHz or higher. The high
+ sample rates filled the 64GB SD cards before the batteries died on all
+ devices used. Table 7 shows the average amount of data stored before
+ the batteries died during the sample rate trials. Cards with larger
+ storage space should be used when recorded at the high sample rate
+ settings. The Procell batteries used with SMMs set to 96kHz seem to
+ die around the time the 64GB SD card fills up. A larger storage size
+ should be used when recording at this sample rate.
+
+ Temperature was expected to impact the batteries by decreasing
+ performance as the temperature was decreased. The SMM Procell
+ temperature trials did show a steady decline in the hours recorded as
+ the temperature decreased, but this was not the case with the
+AudioMoth Procell trials. Table 13 compares the Procell and Lithium
+ temperature trials for both SMMs and AudioMoths. The hours recorded by
+ Procell AudioMoths only decreased by 3% when placed in the fridge
+ versus the 10% seen in SMMs. This is surprising considering the
+ AudioMoth has an exposed battery case, versus the sealed plastic case
+ in SMMs. The devices saw similar performance when placed in the
+freezer with both recording about half the amount of time.
 
 <table>
 <colgroup>
@@ -1168,7 +1170,7 @@ AudioMoth using varying battery types and the mean time for each battery
 <th><p>Average Hours of Audio for SMM</p>
 <th><p>Average Hours of Audio for AudioMoth</p>
 <th><p>Average Hours of Audio for SMM</p>
-<th><strong>Average Hours of Audio for AudioMoth</strong></th>
+<th><p>Average Hours of Audio for AudioMoth</p></th>
 </tr>
 <tr class="header">
   <th colspan="2">Procell Batteries</th>
@@ -1200,34 +1202,34 @@ AudioMoth using varying battery types and the mean time for each battery
 </tbody>
 </table>
 
-> Lithium batteries performed surprisingly well at all temperatures. The
-> devices recorded approximately 25% more hours of audio at all
-> temperatures compared to the control. Lithium batteries appeared to
-> increase performance slightly as the temperature decreased. This
-> result is unexpected; however, there was a consistent increase in the
-> hours recorded during the SMM Lithium temperature trials. This may not
-> always be the case since the AudioMoth Lithium temperature trials
-> resulted in fewer hours recorded in the freezer compared to the
-> fridge. The Lithium batteries did result in more hours recorded at
-> both colder temperatures compared to the devices at room temperature.
-> Additionally, using lithium batteries in freezing temperatures will
-> double the hours of audio recorded over using Procell batteries.
->
-> The cost of batteries is always a consideration for any budget. The
-> Panasonic batteries were chosen as a potentially cheaper alternative
-> to the Procells. The cost per battery was determined by looking at
-> prices on Amazon, Grangier, and B&H during January 2023. The average
-> cost for the batteries shown in Table 14 is without any organizational
-> discount, sales tax, or shipping cost. The Panasonic batteries are a
-> slightly cheaper option, but the reduced cost also results in a
-> reduction in hours of audio recorded.
->
-> Lithium batteries will result in more audio recorded, but the cost is
-> four times as much as the Procell batteries. At best, the Lithium
-> batteries more than double the hours recorded at freezing temperature.
-> Lithium batteries may not be a cost-effective option, especially for
-> large deployments. However, small deployments in isolated areas during
-> cold seasons could greatly benefit from using Lithium batteries.
+ Lithium batteries performed surprisingly well at all temperatures. The
+ devices recorded approximately 25% more hours of audio at all
+ temperatures compared to the control. Lithium batteries appeared to
+ increase performance slightly as the temperature decreased. This
+ result is unexpected; however, there was a consistent increase in the
+ hours recorded during the SMM Lithium temperature trials. This may not
+ always be the case since the AudioMoth Lithium temperature trials
+ resulted in fewer hours recorded in the freezer compared to the
+fridge. The Lithium batteries did result in more hours recorded at
+ both colder temperatures compared to the devices at room temperature.
+ Additionally, using lithium batteries in freezing temperatures will
+ double the hours of audio recorded over using Procell batteries.
+
+ The cost of batteries is always a consideration for any budget. The
+ Panasonic batteries were chosen as a potentially cheaper alternative
+ to the Procells. The cost per battery was determined by looking at
+ prices on Amazon, Grangier, and B&H during January 2023. The average
+cost for the batteries shown in Table 14 is without any organizational
+discount, sales tax, or shipping cost. The Panasonic batteries are a
+ slightly cheaper option, but the reduced cost also results in a
+ reduction in hours of audio recorded.
+
+ Lithium batteries will result in more audio recorded, but the cost is
+ four times as much as the Procell batteries. At best, the Lithium
+ batteries more than double the hours recorded at freezing temperature.
+ Lithium batteries may not be a cost-effective option, especially for
+ large deployments. However, small deployments in isolated areas during
+ cold seasons could greatly benefit from using Lithium batteries.
 
 <table>
 <colgroup>
