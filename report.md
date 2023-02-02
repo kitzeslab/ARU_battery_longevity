@@ -40,7 +40,6 @@ room, cold, and freezing temperatures. Panasonic batteries were only
 tested at room temperature and resulted in a decrease of 7% in hours of
 audio.
 
-## <img src="media/image2.png" style="width:8.6712in;height:2.97396in" /><img src="media/image1.png" style="width:8.77604in;height:2.95582in" />
 
 ## **Table of Contents**
 
