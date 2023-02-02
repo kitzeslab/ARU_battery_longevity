@@ -44,37 +44,37 @@ audio.
 
 ## **Table of Contents**
 
-1.0 Introduction
+[1.0 Introduction](#10-introduction)
 
-2.0 Methods
+[2.0 Methods](#20-methods)
 
-> 2.1 Audio Moth Trials
+> [2.1 Song Meter Micro Trials](#21-song-meter-micro-trials)
 >
-> 2.2 Song Meter Micro Trials
+> [2.2 AudioMoth Trials](#22-audiomoth-trials)
 >
-> 2.3 High Sample Rates
+> [2.3 High Sample Rates](#23-high-sample-rates)
 
-3.0 Song Meter Micro Results
+[3.0 Song Meter Micro Results](#30-song-meter-micro-results)
 
-> 3.1 Sample Rate Trials
+> [3.1 Sample Rate Trials](#31-sample-rate-trials)
 >
-> 3.2 Gain Trials
+> [3.2 Gain Trials](#32-gain-trials)
 >
-> 3.3 Temperature Trials
+> [3.3 Temperature Trials](#33-temperature-trials)
 >
-> 3.4 Battery Type Trials
+> [3.4 Battery Type Trials](#34-battery-type-trials)
 
-4.0 AudioMoth Results
+[4.0 AudioMoth Results](#40-audiomoth-results)
 
-> 4.1 Sample Rate Trials
+> [4.1 Sample Rate Trials](#41-sample-rate-trials)
 >
-> 4.2 Gain Trials
+> [4.2 Gain Trials](#42-gain-trials)
 >
-> 4.3 Temperature Trials
+> [4.3 Temperature Trials](#43-temperature-trials)
 >
-> 4.4 Battery Type Trials
+> [4.4 Battery Type Trials](#44-battery-type-trials)
 
-5.0 Discussion
+[5.0 Discussion](#50-discussion)
 
 ## 
 
@@ -82,55 +82,33 @@ audio.
 
 ## **List of Tables**
 
-## **Table 1 –** Hours of audio recorded by each SMM at varying sample rates and the mean time for each sample rate.
+-   **<a href="#table-1">Table 1</a>** **–** Hours of audio recorded by each SMM at varying sample rates and the mean time for each sample rate
 
--   **Table 2 –** Hours of audio recorded by each SMM at varying gains
-    > and the mean time for each gain.
+-   **<a href="#table-2">Table 2</a>** **–** Hours of audio recorded by each SMM at varying gains and the mean time for each gain
 
--   **Table 3 –** Hours of audio recorded by each SMM using Procell
-    > batteries at varying temperatures and the mean time for each
-    > temperature.
+-   **<a href="#table-3">Table 3</a>** **–** Hours of audio recorded by each SMM using Procell batteries at varying temperatures and the mean time for each temperature
 
--   **Table 4 –** Hours of audio recorded by each SMM using Energizer
-    > Ultimate Lithium batteries at varying temperatures and the mean
-    > time for each temperature.
+-   **<a href="#table-4">Table 4</a>** **–** Hours of audio recorded by each SMM using Energizer Ultimate Lithium batteries at varying temperatures and the mean time for each temperature
 
--   **Table 5 –** Hours of audio recorded by each SMM using varying
-    > battery types and the mean time for each battery type.
+-   **<a href="#table-5">Table 5</a>** **–** Hours of audio recorded by each SMM using varying battery types and the mean time for each battery type
 
--   **Table 6 –** Hours of audio recorded by each AudioMoth at varying
-    > sample rates and the mean time for each sample rate.
+-   **<a href="#table-6">Table 6</a>** **–** Hours of audio recorded by each AudioMoth at varying sample rates and the mean time for each sample rate
 
--   **Table 7 –** The average data written to the SD cards at each
-    > sample rate available on AudioMoths
+-   **<a href="#table-7">Table 7</a>** **–** The average data written to the SD cards at each sample rate avaialbe on AudioMoths
 
--   **Table 8 –** Hours of audio recorded by each AudioMoth at varying
-    > gains and the mean time for each gain.
+-  **<a href="#table-8">Table 8</a>** **–** Hours of audio recorded by each AudioMoth at varying gains and the mean time for each gain
 
--   **Table 9 –** Hours of audio recorded by each AudioMoth using
-    > Procell batteries at varying temperatures and the mean time for
-    > each temperature.
+-   **<a href="#table-9">Table 9</a>** **–** Hours of audio recorded by each AudioMoth using Procell batteries at varying temperatures and the mean time for eah temperature
 
--   **Table 10 –** Hours of audio recorded by each AudioMoth using
-    > Energizer Ultimate Lithium batteries at varying temperatures and
-    > the mean time for each temperature.
+-   **<a href="#table-10">Table 10</a>** **–** Hours of audio recorded by each AudioMoth using Energizer Ultimate Lithium batteries at varying temperatures and the mean time for each temperature
 
--   **Table 11 –** Hours of audio recorded by each AudioMoth using
-    > varying battery types and the mean time for each battery type.
+-   **<a href="#table-11">Table 11</a>** **–** Hours of audio recorded by each AudioMoth using varying battery types and the mean time for each battery type
 
--   **Table 12 –** A comparison of average hours of audio recorded by
-    > SMMs and AudioMoths at similar sample rates
+-   **<a href="#table-12">Table 12</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rates
 
--   **Table 13 –** A comparison of average hours of audio recorded by
-    > SMMs and AudioMoths at every available sample rate setting.
+-   **<a href="#table-13">Table 13</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries
 
--   **Table 14 –** A comparison of average hours of audio recorded by
-    > SMMs and AudioMoths at different temperature ranges using Procell
-    > or Lithium batteries.
-
--   **Table 15 –** A comparison of average cost per battery type used
-    > (as of January 2023) and the percent difference in hours of audio
-    > recorded using each battery type at various temperature ranges.
+-   **<a href="#table-14">Table 14</a>** **–** A comparison of average cost per battery type used (as of January 2023) and the percent difference in hours of audio recorded using each battery type at various temperature ranges
 
 ## 
 
@@ -189,7 +167,7 @@ Ultimate Lithium AA (Lithium) batteries at room temperature.
 Additionally, the longevity of Procell versus Lithium batteries at
 fridge and freezer temperatures was compared.
 
-2.1 <u>Song Meter Micro Trials</u>
+#### 2.1 Song Meter Micro Trials
 
 > **Control Configuration**
 >
@@ -224,7 +202,7 @@ fridge and freezer temperatures was compared.
 > powered with Lithium batteries and three were powered with Panasonic
 > batteries.
 
-2.2 <u>AudioMoth Trials</u>
+#### 2.2 AudioMoth Trials
 
 > **Control Configuration**
 >
@@ -260,7 +238,7 @@ fridge and freezer temperatures was compared.
 > were powered with Lithium batteries and three were powered with
 > Panasonic batteries.
 
-2.3 <u>High Sample Rates</u>
+#### 2.3 High Sample Rates
 
 > The first set of trials revealed that AudioMoths set to record at a
 > sample rate of 96kHz or higher and SMMs set to 96kHz will fill up a
@@ -272,7 +250,7 @@ fridge and freezer temperatures was compared.
 
 ## 3.0 Song Meter Micro Results
 
-3.1 <u>Sample Rate Trials</u>
+#### 3.1 Sample Rate Trials
 
 > The hours of audio recorded by each SMM at varying sample rates is
 > summarized in Table 1 alongside the average across the three devices.
@@ -306,9 +284,9 @@ fridge and freezer temperatures was compared.
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 1</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-1">TABLE 1: Hours of audio recorded by each
 SMM at varying sample rates and the mean time for each sample
-rate.</strong></th>
+rate</strong></th></h4>
 </tr>
 <tr class="odd">
 <th><strong>Sample Rate (kHz)</strong></th>
@@ -388,7 +366,7 @@ rate.</strong></th>
 </tbody>
 </table>
 
-3.2 <u>Gain Trials</u>
+#### 3.2 Gain Trials
 
 > Table 2 shows that the average hours of audio recorded at the
 > different gain settings varies by approximately 5%. The difference
@@ -406,8 +384,7 @@ rate.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 2</u>: Hours of audio recorded by each
-SMM at varying gains and the mean time for each gain.</strong></th>
+<th colspan="5"><h4 id="table-2">TABLE 2: Hours of audio recorded by each SMM at varying gains and the mean time for each gain.</h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Gain (dB)</strong></th>
@@ -452,7 +429,7 @@ SMM at varying gains and the mean time for each gain.</strong></th>
 </tbody>
 </table>
 
-3.3 <u>Temperature Trials</u>
+#### 3.3 Temperature Trials
 
 > The Procell temperature trials were consistent within temperature
 > groups as shown in Table 3. Decreasing temperature resulted in a
@@ -466,7 +443,6 @@ SMM at varying gains and the mean time for each gain.</strong></th>
 > temperature, SMMs placed in the fridge recorded 5% more hours of audio
 > and the SMMs in the freezer recorded 7% more.
 
-**gains and the mean time for each gain.**
 
 <table>
 <colgroup>
@@ -478,9 +454,9 @@ SMM at varying gains and the mean time for each gain.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 3</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-3">TABLE 3: Hours of audio recorded by each
 SMM using Procell batteries at varying temperatures and the mean time
-for each temperature.</strong></th>
+  for each temperature.</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Temperature</strong></th>
@@ -528,9 +504,9 @@ for each temperature.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 4</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-4">TABLE 4: Hours of audio recorded by each
 SMM using Energizer Ultimate Lithium batteries at varying temperatures
-and the mean time for each temperature.</strong></th>
+                            and the mean time for each temperature</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Temperature</strong></th>
@@ -568,7 +544,7 @@ and the mean time for each temperature.</strong></th>
 </tbody>
 </table>
 
-3.4 <u>Battery Type Trials</u>
+#### 3.4 Battery Type Trials
 
 > Table 5 shows the differences between the three battery types used.
 > The Panasonic batteries recorded 10% fewer hours of audio.
@@ -585,9 +561,9 @@ and the mean time for each temperature.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 5</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-5">TABLE 5: Hours of audio recorded by each
 SMM using varying battery types and the mean time for each battery
-type.</strong></th>
+  type</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Battery Type</strong></th>
@@ -627,7 +603,7 @@ type.</strong></th>
 
 ## 4.0 AudioMoth Results
 
-4.1 <u>Sample Rate Trials</u>
+#### 4.1 Sample Rate Trials
 
 > The hours of audio recorded by each SMM at varying sample rates is
 > summarized in Table 6 alongside the average across the three devices.
@@ -659,9 +635,9 @@ type.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 6</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-6">TABLE 6: Hours of audio recorded by each
 AudioMoths at varying sample rates and the mean time for each sample
-rate.</strong></th>
+  rate.</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Sample Rate (kHz)</strong></th>
@@ -739,19 +715,58 @@ inserted once the red and green LEDs began flashing.</th>
 </tbody>
 </table>
 
-| **<u>TABLE 7</u>: The average data written to the SD cards at each sample rate available on AudioMoths** |                              |
-|-----------------------------|-------------------------------------------|
-| **Sample Rate (kHz)**                                                                                    | Average data on SD card (GB) |
-| 8                                                                                                        | 13.2                         |
-| 16                                                                                                       | 24.0                         |
-| 32                                                                                                       | 40.5                         |
-| 48                                                                                                       | 51.8                         |
-| 96                                                                                                       | 61.8                         |
-| 192                                                                                                      | 80.1                         |
-| 250                                                                                                      | 82.5                         |
-| 384                                                                                                      | 112.3                        |
+<table>
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><strong><h4 id="table-7">TABLE 7: The average data written to the SD cards at each sample rate available on AudioMoths</strong></h4></th>
+</tr>
+<tr class="odd">
+<th><strong>Sample Rate (kHz)</strong></th>
+  <th><strong>Average data on SD card (GB)</strong>
+</tr>
+<tr class="header">
+<th>8</th>
+<th>13.2</th>
+</tr>
+<tr class="odd">
+<th>16</th>
+<th>24.0</th>
+</tr>
+<tr class="header">
+<th>32</th>
+<th>40.5</th>
+</tr>
+<tr class="odd">
+<th>48</th>
+<th>51.8</th>
+</tr>
+<tr class="header">
+<th>96</th>
+<th>61.8</th>
+</tr>
+<tr class="odd">
+<th>192</th>
+<th>80.1</th>
+</tr>
+<tr class="header">
+<th>250</th>
+<th>82.5</th>
+</tr>
+<tr class="odd">
+<th>384</th>
+<th>112.3</th>
+</tr>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-4.2 <u>Gain Trials</u>
+#### 4.2 Gain Trials
 
 > The gain setting had a negligible effect on the total hours of audio
 > recorded. The average across settings shown in Table 8 vary by a
@@ -769,9 +784,9 @@ inserted once the red and green LEDs began flashing.</th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 8</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-8">TABLE 8: Hours of audio recorded by each
 AudioMoths at varying gains and the mean time for each
-gain.</strong></th>
+  gain.</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Gain Setting</strong></th>
@@ -823,7 +838,7 @@ gain.</strong></th>
 </tbody>
 </table>
 
-4.3 <u>Temperature Trials</u>
+#### 4.3 Temperature Trials
 
 > The Procell temperature trials are summarized in Table 9. There is a
 > 3% decrease in hours recorded between the controls and the devices
@@ -849,7 +864,7 @@ gain.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 9</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-9">TABLE 9: Hours of audio recorded by each
 AudioMoth using Procell batteries at varying temperatures and the mean
 time for each temperature.</strong></th>
 </tr>
@@ -899,9 +914,9 @@ time for each temperature.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 10</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-10">TABLE 10: Hours of audio recorded by each
 AudioMoth using Energizer Ultimate Lithium batteries at varying
-temperatures and the mean time for each temperature.</strong></th>
+  temperatures and the mean time for each temperature</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Temperature</strong></th>
@@ -939,7 +954,7 @@ temperatures and the mean time for each temperature.</strong></th>
 </tbody>
 </table>
 
-4.4 <u>Battery Type Trials</u>
+#### 4.4 Battery Type Trials
 
 > Table 11 shows the differences between the three types of batteries
 > used. The Panasonic batteries recorded 7% fewer hours of audio. The
@@ -955,9 +970,9 @@ temperatures and the mean time for each temperature.</strong></th>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><u>TABLE 11</u>: Hours of audio recorded by each
+<th colspan="5"><strong><h4 id="table-11">TABLE 11: Hours of audio recorded by each
 AudioMoth using varying battery types and the mean time for each battery
-type.</strong></th>
+  type</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Battery Type</strong></th>
@@ -1006,29 +1021,125 @@ type.</strong></th>
 > 22.05kHz went against the pattern, and both resulted in fewer hours
 > recorded than the next highest sample rate.
 
-| **<u>TABLE 12</u>: A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rate settings** |                                |                                      |
-|--------------------|-------------------------|----------------------------|
-| **Sample Rate (kHz)**                                                                                                       | Average Hours of Audio for SMM | Average Hours of Audio for AudioMoth |
-| 8                                                                                                                           | 223                            | 249                                  |
-| 16                                                                                                                          | 164                            | 225                                  |
-| 32                                                                                                                          | 139                            | 189                                  |
-| 48                                                                                                                          | 131                            | 161                                  |
-| 96                                                                                                                          | 92                             | 91                                   |
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><strong><h4 id="table-12">TABLE 12: A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rate settings</strong></h4></th>
+</tr>
+<tr class="odd">
+<th><strong>Sample Rate (kHz)</strong></th>
+<th><p><u>Average Hours of Audio for SMM</u></p></th>
+<th><p><u>Average Hours of Audio for AudioMoth</u></p></th>
+</tr>
+<tr class="header">
+<th>8</th>
+<th>223</th>
+<th>249</th>
+</tr>
+<tr class="odd">
+<th>16</th>
+<th>164</th>
+<th>225</th>
+</tr>
+<tr class="header">
+<th>32</th>
+<th>139</th>
+<th>189</th>
+</tr>
+<tr class="odd">
+<th>48</th>
+<th>131</th>
+<th>161</th>
+</tr>
+<tr class="header">
+<th>96</th>
+<th>92</th>
+<th>91</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-| **<u>TABLE 13</u>: A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting.** |                                |                                      |
-|--------------------|-------------------------|----------------------------|
-| **Sample Rate (kHz)**                                                                                                               | Average Hours of Audio for SMM | Average Hours of Audio for AudioMoth |
-| 8                                                                                                                                   | 223                            | 249                                  |
-| 16                                                                                                                                  | 164                            | 225                                  |
-| 22.05                                                                                                                               | 152                            | –                                    |
-| 24                                                                                                                                  | 165                            | –                                    |
-| 32                                                                                                                                  | 139                            | 189                                  |
-| 44.1                                                                                                                                | 127                            | –                                    |
-| 48                                                                                                                                  | 131                            | 161                                  |
-| 96                                                                                                                                  | 92                             | 91                                   |
-| 192                                                                                                                                 | –                              | 60                                   |
-| 250                                                                                                                                 | –                              | 47                                   |
-| 384                                                                                                                                 | –                              | 43                                   |
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><strong><h4 id="table-13">TABLE 13: A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting</strong></h4></th>
+</tr>
+<tr class="odd">
+<th><strong>Sample Rate (kHz)</strong></th>
+<th><p><u>Average Hours of Audio for SMM</u></p>
+<th><p><u>Average Hours of Audio for AudioMoth</u></p>
+</tr>
+<tr class="header">
+<th>8</th>
+<th>223</th>
+<th>249</th>
+</tr>
+<tr class="odd">
+<th>16</th>
+<th>164</th>
+<th>225</th>
+</tr>
+<tr class="header">
+<th>22.05</th>
+<th>152</th>
+<th>-</th>
+</tr>
+<tr class="odd">
+<th>24</th>
+<th>165</th>
+<th>-</th>
+</tr>
+<tr class="header">
+<th>32</th>
+<th>139</th>
+<th>189</th>
+</tr>
+<tr class="odd">
+<th>44.1</th>
+<th>127</th>
+<th>-</th>
+</tr>
+<tr class="header">
+  <th>48</th>
+<th>131</th>
+<th>161</th>
+</tr>
+<tr class="odd">
+<th>96</th>
+<th>92</th>
+<th>91</th>
+</tr>
+<tr class="header">
+  <th>192</th>
+  <th>-</th>
+  <th>60</th>
+  </tr>
+  <tr class="odd">
+    <th>250</th>
+    <th>-</th>
+    <th>47</th>
+  </tr>
+  <tr class="header">
+    <th>384</th>
+    <th>-</th>
+    <th>43</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 > Consideration on the size of SD cards used should be given when
 > AudioMoths are set to a sample rate of 96kHz or higher. The high
@@ -1052,13 +1163,57 @@ type.</strong></th>
 > in SMMs. The devices saw similar performance when placed in the
 > freezer with both recording about half the amount of time.
 
-| **<u>TABLE 14</u>: A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries.** |                                |                                      |                                |                                      |
-|----------------|---------------|--------------|--------------|---------------|
-| **Temperature**                                                                                                                                                 | Average Hours of Audio for SMM | Average Hours of Audio for AudioMoth | Average Hours of Audio for SMM | Average Hours of Audio for AudioMoth |
-|                                                                                                                                                                 | Procell Batteries              |                                      | Lithium Batteries              |                                      |
-| Room (20.5°C)                                                                                                                                                   | 139                            | 189                                  | 167                            | 234                                  |
-| Fridge (3.4°C)                                                                                                                                                  | 125                            | 183                                  | 174                            | 241                                  |
-| Freezer (-16.1°C)                                                                                                                                               | 80                             | 102                                  | 177                            | 238                                  |
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 19%" />
+<col style="width: 18%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><strong><h4 id="table-14">TABLE 14: A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries</strong></h4></th>
+</tr>
+<tr class="odd">
+<th><strong>Temperature</strong></th>
+<th><p><u>Average Hours of Audio for SMM</u></p>
+<th><p><u>Average Hours of Audio for AudioMoth</u></p>
+<th><p><u>Average Hours of Audio for SMM/u></p>
+<th><strong>Average Hours of Audio for AudioMoth</strong></th>
+</tr>
+<tr class="header">
+<th></th>
+<th>Procell</th>
+<th>Batteries</th>
+<th>Lithium</th>
+<th>Batteries</th>
+</tr>
+<tr class="odd">
+<th>Room (20.5°C)</th>
+<th>139</th>
+<th>189</th>
+<th>167</th>
+<th>234</th>
+</tr>
+<tr class="header">
+<th>Fridge (3.4°C)</th>
+<th>125</th>
+<th>183</th>
+<th>174</th>
+<th>241</th>
+</tr>
+<tr class="odd">
+<th>Freezer (-16.1°C)</th>
+<th>80</th>
+<th>102</th>
+<th>177</th>
+<th>238</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 > Lithium batteries performed surprisingly well at all temperatures. The
 > devices recorded approximately 25% more hours of audio at all
