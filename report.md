@@ -1,4 +1,4 @@
-## **Testing battery longevity in AudioMoths and Song Meter Micros under various conditions.** 
+## **Testing battery longevity in AudioMoths and Song Meter Micros under various conditions** 
 
 Nickolus Stahlman
 
@@ -107,7 +107,7 @@ audio.
 
 -   **<a href="#table-13">Table 13</a>** **-** A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting
 
--   **<a href="table-14">Table 14</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries
+-   **<a href="#table-14">Table 14</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries
 
 -   <strong><a href="#table-15">Table 15</a></strong> **–** A comparison of average cost per battery type used (as of January 2023) and the percent difference in hours of audio recorded using each battery type at various temperature ranges
 
@@ -170,15 +170,8 @@ fridge and freezer temperatures was compared.
 
 #### 2.1 Song Meter Micro Trials
 
-> **Control Configuration**
->
-> Sample Rate: 32kHz
->
-> Gain: 18dB
->
-> Temperature: room
->
-> Battery Type: Duracell Procell PC1500
+> **Control Configuration**<br>
+> Sample Rate: 32kHz<br>Gain: 18dB<br>Temperature: room<br>Battery Type: Duracell Procell PC1500
 >
 > **Sample Rate Configuration:** A total of 24 SMMs were configured to
 > record with an 18dB gain at room temperature with Procell batteries.
@@ -205,15 +198,8 @@ fridge and freezer temperatures was compared.
 
 #### 2.2 AudioMoth Trials
 
-> **Control Configuration**
->
-> Sample Rate: 32kHz
->
-> Gain: medium
->
-> Temperature: room
->
-> Battery Type: Duracell Procell PC1500
+> **Control Configuration**<br>
+> Sample Rate: 32kHz<br>Gain: medium<br>Temperature: room<br>Battery Type: Duracell Procell PC1500
 >
 > **Sample Rate Configuration:** A total of 21 AudioMoths were
 > configured to record with an 18dB gain at room temperature with
@@ -385,7 +371,7 @@ rate</strong></th></h4>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><h4 id="table-2">TABLE 2: Hours of audio recorded by each SMM at varying gains and the mean time for each gain.</h4></th>
+<th colspan="5"><h4 id="table-2">TABLE 2: Hours of audio recorded by each SMM at varying gains and the mean time for each gain</h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Gain (dB)</strong></th>
@@ -709,12 +695,13 @@ AudioMoths at varying sample rates and the mean time for each sample
 <tr class="header">
 <th colspan="5">*Audio files at these sample rates filled the SD card
 before the batteries depleted, and required a second SD card to be
-inserted once the red and green LEDs began flashing.</th>
+  inserted once the red and green LEDs began flashing.</th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
+
 
 <table>
 <colgroup>
@@ -1166,7 +1153,7 @@ AudioMoth using varying battery types and the mean time for each battery
 
 <table>
 <colgroup>
-<col style="width: 17%" />
+<col style="width: 20%" />
 <col style="width: 20%" />
 <col style="width: 19%" />
 <col style="width: 18%" />
@@ -1178,9 +1165,9 @@ AudioMoth using varying battery types and the mean time for each battery
 </tr>
 <tr class="odd">
   <th rowspan="2"><strong>Temperature</strong></th>
-<th><p><u>Average Hours of Audio for SMM</u></p>
-<th><p><u>Average Hours of Audio for AudioMoth</u></p>
-<th><p><u>Average Hours of Audio for SMM/u></p>
+<th><p>Average Hours of Audio for SMM</p>
+<th><p>Average Hours of Audio for AudioMoth</p>
+<th><p>Average Hours of Audio for SMM</p>
 <th><strong>Average Hours of Audio for AudioMoth</strong></th>
 </tr>
 <tr class="header">
