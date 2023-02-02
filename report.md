@@ -106,9 +106,11 @@ audio.
 
 -   **<a href="#table-12">Table 12</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rates
 
--   **<a href="#table-13">Table 13</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries
+-   **<a href="#table-13">Table 13</a>** **-** A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting
 
--   **<a href="#table-14">Table 14</a>** **–** A comparison of average cost per battery type used (as of January 2023) and the percent difference in hours of audio recorded using each battery type at various temperature ranges
+-   **<a href="table-14">Table 14</a>** **–** A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries
+
+-   <strong><a href="#table-15">Table 15</a></strong> **–** A comparison of average cost per battery type used (as of January 2023) and the percent difference in hours of audio recorded using each battery type at various temperature ranges
 
 ## 
 
@@ -1029,7 +1031,7 @@ AudioMoth using varying battery types and the mean time for each battery
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><h4 id="table-12">TABLE 12: A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rate settings</strong></h4></th>
+<th colspan="3"><strong><h4 id="table-12">TABLE 12: A comparison of average hours of audio recorded by SMMs and AudioMoths at similar sample rate settings</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Sample Rate (kHz)</strong></th>
@@ -1074,7 +1076,7 @@ AudioMoth using varying battery types and the mean time for each battery
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="5"><strong><h4 id="table-13">TABLE 13: A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting</strong></h4></th>
+<th colspan="3"><strong><h4 id="table-13">TABLE 13: A comparison of average hours of audio recorded by SMMs and AudioMoths at every available sample rate setting</strong></h4></th>
 </tr>
 <tr class="odd">
 <th><strong>Sample Rate (kHz)</strong></th>
@@ -1176,18 +1178,15 @@ AudioMoth using varying battery types and the mean time for each battery
 <th colspan="5"><strong><h4 id="table-14">TABLE 14: A comparison of average hours of audio recorded by SMMs and AudioMoths at different temperature ranges using Procell or Lithium batteries</strong></h4></th>
 </tr>
 <tr class="odd">
-<th><strong>Temperature</strong></th>
+  <th rowspan="2"><strong>Temperature</strong></th>
 <th><p><u>Average Hours of Audio for SMM</u></p>
 <th><p><u>Average Hours of Audio for AudioMoth</u></p>
 <th><p><u>Average Hours of Audio for SMM/u></p>
 <th><strong>Average Hours of Audio for AudioMoth</strong></th>
 </tr>
 <tr class="header">
-<th></th>
-<th>Procell</th>
-<th>Batteries</th>
-<th>Lithium</th>
-<th>Batteries</th>
+  <th colspan="2">Procell Batteries</th>
+  <th colspan="2">Lithium Batteries</th>
 </tr>
 <tr class="odd">
 <th>Room (20.5°C)</th>
@@ -1244,10 +1243,65 @@ AudioMoth using varying battery types and the mean time for each battery
 > large deployments. However, small deployments in isolated areas during
 > cold seasons could greatly benefit from using Lithium batteries.
 
-| **<u>TABLE 15</u>: A comparison of average cost per battery type used (as of January 2023) and the percent difference in hours of audio recorded using each battery type at various temperature ranges.** |                            |                                                |                                                                    |        |         |                                                                          |        |         |
-|----------|---------|-------------|-------|-------|--------|-------|--------|--------|
-| **Battery Type**                                                                                                                                                                                          | Cost per battery (dollars) | Percent difference in cost compared to Procell | Percent difference of hours recorded compared to SMM using Procell |        |         | Percent difference of hours recorded compared to AudioMoth using Procell |        |         |
-|                                                                                                                                                                                                           |                            |                                                | room                                                               | fridge | freezer | room                                                                     | fridge | freezer |
-| Procell                                                                                                                                                                                                   | 0.63                       | –                                              | –                                                                  |        |         | –                                                                        |        |         |
-| Panasonic                                                                                                                                                                                                 | 0.58                       | -8%                                            | -10%                                                               | –      |         | -7%                                                                      | –      |         |
-| Lithium                                                                                                                                                                                                   | 2.67                       | +423%                                          | +20%                                                               | +39%   | +122%   | +24%                                                                     | +31%   | +132%   |
+<table>
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+  <col style="width: 12%" />
+  <col style="width: 12%" />
+  <col style="width: 12%" />
+  <col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="9"><strong><h4 id="table-15">TABLE 15: A comparison of average cost per battery type used (as of January 2023) and the percent difference in hours of audio recorded using each battery type at various temperature ranges</strong></h4></th>
+</tr>
+<tr class="odd">
+  <th rowspan="2">Battery Type</th>
+<th rowspan="2">Cost per battery (dollars)</u></p>
+<th rowspan="2">Percent difference in cost compared to Procell</u></p>
+<th colspan="3">Percent difference of hours recorded compared to SMM using Procell</u></p>
+<th colspan="3">Percent difference of hours recorded compared to AudioMoth using Procell</u></p>
+</tr>
+<tr class="header">
+  <th>room</th>
+  <th>fridge</th>
+  <th>freezer</th>
+  <th>room</th>
+  <th>fridge</th>
+  <th>freezer</th>
+</tr>
+<tr class="odd">
+<th>Procell</th>
+<th>0.63</th>
+<th>-</th>
+<th colspan="3">-</th>
+<th colspan="3">-</th>
+</tr>
+<tr class="header">
+<th>Panasonic</th>
+<th>0.58</th>
+<th>-8%</th>
+<th>-10%</th>
+<th colspan="2">-</th>
+  <th>-7%</th>
+  <th colspan="2">-</th>
+</tr>
+<tr class="odd">
+<th>Lithium</th>
+<th>2.67</th>
+<th>+423%</th>
+<th>+20%</th>
+<th>+39%</th>
+  <th>+122%</th>
+  <th>+24%</th>
+  <th>+31%</th>
+  <th>+132%</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
