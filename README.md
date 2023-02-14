@@ -1,6 +1,15 @@
 # [ARU Battery Longevity Report](https://github.com/kitzeslab/ARU_battery_longevity/blob/main/report.md)
-This report summarizes efforts to determine the lifespan of batteries used in Song Meter Micro and AudioMoth ARU at various settings and conditions. Trials to compare changes in sample rate, gain, temperature, and battery type were conducted. Each category had three units at the same setting and were exposed to the same conditions. Every available sample rate and gain setting was tested as well as the effect that cold and freezing temperatures have on the ARUs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7640775.svg)](https://doi.org/10.5281/zenodo.7640775)
+
+This report summarizes efforts to determine the lifespan of batteries used in Song Meter Micro and AudioMoth ARU at various settings and conditions. Trials to compare changes in sample rate, gain, temperature, and battery type were conducted. Each category had three units at the same setting and were exposed to the same conditions. Every available sample rate and gain setting was tested as well as the effect that cold and freezing temperatures have on the ARUs.
+
+#### Suggested citation
+The report is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please feel free to use it with attribution.
+```
+Stahlman, Nickolus (2023). ARU Battery Longevity Report. GitHub repository: 
+https://github.com/kitzeslab/ARU_battery_longevity. DOI:10.5281/zenodo.7640775
+```
 A summary of the report can be found below alongside tables that summarize the results of the sample rate and temperature trials. The full report can be accessed [here](https://github.com/kitzeslab/ARU_battery_longevity/blob/main/report.md)
 
 ## **Summary**
